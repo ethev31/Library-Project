@@ -1,0 +1,6 @@
+C:\School 2024\Object_Oriented_Programming\FinalProject\LibraryManagementSystem\LibraryManagementBL\bin\Debug\LibraryManagementBL.dll
+C:\School 2024\Object_Oriented_Programming\FinalProject\LibraryManagementSystem\LibraryManagementBL\bin\Debug\LibraryManagementBL.pdb
+C:\School 2024\Object_Oriented_Programming\FinalProject\LibraryManagementSystem\LibraryManagementBL\obj\Debug\LibraryManagementBL.csproj.AssemblyReference.cache
+C:\School 2024\Object_Oriented_Programming\FinalProject\LibraryManagementSystem\LibraryManagementBL\obj\Debug\LibraryManagementBL.csproj.CoreCompileInputs.cache
+C:\School 2024\Object_Oriented_Programming\FinalProject\LibraryManagementSystem\LibraryManagementBL\obj\Debug\LibraryManagementBL.dll
+C:\School 2024\Object_Oriented_Programming\FinalProject\LibraryManagementSystem\LibraryManagementBL\obj\Debug\LibraryManagementBL.pdb
